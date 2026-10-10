@@ -1,0 +1,2 @@
+Dix photos originales fournies, renommées photo-01.jpg à photo-10.jpg.
+La musique reste la mélodie intégrée ; ajouter un MP3 dans CONFIG si souhaité.
