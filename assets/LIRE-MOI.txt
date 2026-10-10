@@ -1,2 +1,3 @@
-Dix photos originales fournies, renommées photo-01.jpg à photo-10.jpg.
-La musique reste la mélodie intégrée ; ajouter un MP3 dans CONFIG si souhaité.
+24 photos originales : photo-01.jpg à photo-24.jpg.
+La première photo du dernier envoi, ArQ-MEC-10-82.jpg, est la dernière de l’album : photo-24.jpg.
+Musique : photograph.mp3.
